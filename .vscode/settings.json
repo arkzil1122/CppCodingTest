@@ -1,5 +1,40 @@
 {
     "files.associations": {
         "iostream": "cpp"
+    },
+    "editor.inlineCompletionsAccessibilityVerbose": true,
+    "editor.tabCompletion": "on",
+    "background.sidebar": {
+        "images": ["file:///C:/Users/kj381/Downloads/psyduck.png"],
+        "opacity": 0.5,
+        "size": "130%",
+        "useFront":false,
+        "position": "center",
+        "interval": 0,
+        "random": false
+    },
+    "background.editor": {
+        "useFront": false,
+        "style": {
+            "background-position": "40% 50%",
+            "background-size": "75%",
+            "opacity": 0.3
+        },
+        "styles": [
+            {},
+            {},
+            {}
+        ],
+        "images": ["file:///C:/Users/kj381/Downloads/litwick-1.png"],
+        "interval": 0,
+        "random": false
+    },
+    "background.panel": {
+        "images": ["file:///C:/Users/kj381/Downloads/slowpoke.png"],
+        "opacity": 0.1,
+        "size": "50%",
+        "position": "0% 55%",
+        "interval": 0,
+        "random": false
     }
 }
