@@ -1,11 +1,12 @@
 {
     "files.associations": {
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "ios": "cpp"
     },
     "editor.inlineCompletionsAccessibilityVerbose": true,
     "editor.tabCompletion": "on",
     "background.sidebar": {
-        "images": ["file:///C:/Users/kj381/Downloads/psyduck.png"],
+        "images": ["file:///C:/Users/kj381/Downloads/litwick-1.png"],
         "opacity": 0.5,
         "size": "130%",
         "useFront":false,
@@ -25,7 +26,7 @@
             {},
             {}
         ],
-        "images": ["file:///C:/Users/kj381/Downloads/litwick-1.png"],
+        "images": ["file:///C:/Users/kj381/Downloads/psyduck.png"],
         "interval": 0,
         "random": false
     },
